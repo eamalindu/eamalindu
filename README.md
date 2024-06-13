@@ -36,7 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eamalindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eamalindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-<img height="150" src="https://media1.tenor.com/m/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif"  />
+<br>
+<img height="150" src="https://media1.tenor.com/m/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif"  align="center"/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/eamalindu/eamalindu/output/snake.svg" alt="Snake animation" />
 </div>
