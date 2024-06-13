@@ -3,24 +3,15 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=eamalindu&theme=onedark&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
 <br clear="both">
 
 <h4 align="left">About Me:</h4>
-
-###
 
 <br clear="both">
 
 <p align="left">I'm a passionate programmer always looking for new challenges and ways to improve my skills. I'm currently interested in web development.</p>
 
-###
-
 <h4 align="left">Languages and Tools:</h4>
-
-###
 
 <br clear="both">
 
