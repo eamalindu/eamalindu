@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me:</h3>
 
-<p align="left">I'm a passionate programmer always looking for new challenges and ways to improve my skills. I'm currently interested in web development.</p>
+<p align="left">Welcome to my GitHub! I'm passionate about coding and continuously learning new technologies to enhance my skills. Here, you'll find a variety of projects showcasing my expertise in Javascript, PHP, etc. I'm always open to collaboration and eager to contribute to exciting and innovative projects. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas. Let's build something amazing together!.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
