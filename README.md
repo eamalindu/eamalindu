@@ -30,6 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
+<br>
 <p align="left">I work with a diverse set of languages and tools to bring my projects to life. My core expertise includes Java, PHP, JavaScript, C#, HTML, and CSS. I am proficient in frameworks and libraries like React and Spring Boot. For databases, I use MySQL, and I rely on IntelliJ IDEA as my primary development environment. Whether building dynamic web applications, backend services, or full-stack solutions, I leverage this robust toolkit to deliver high-quality, scalable projects. I'm always exploring new technologies to expand my skill set and stay at the cutting edge of development</p>
 <br>
 <div align="center">
