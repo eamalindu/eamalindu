@@ -116,7 +116,7 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
       <strong>Highlights:</strong> IMS ↔ RMS sync · Automated follow-up workflows · Performance reporting · Spring Security RBAC
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/eamalindu/rms">📋 Inquiry Management System (IMS)</a></h3>
+      <h3><a href="https://github.com/eamalindu/rms">📋 Registration Management System (RMS)</a></h3>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
@@ -125,9 +125,11 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
 and academic performance at STEAM Higher Education Institute. Handles the complete enrollment 
 lifecycle with role-based access and automated email notifications
       <br><br>
-      <strong>Highlights:</strong>Spring Security RBAC · JPA/Hibernate · Installment payment tracking · Excel reports
+      <strong>Highlights:</strong> Spring Security RBAC · JPA/Hibernate · Installment payment tracking · Excel reports
     </td>
-    <td valign="top" width="50%">
+  </tr>
+  <tr>
+    <td valign="top" width="10%">
       <h3><a href="https://github.com/eamalindu/EMC-Attendance-System">🕐 EMC Attendance System</a></h3>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -148,7 +150,7 @@ lifecycle with role-based access and automated email notifications
      Enterprise-grade staff management system with TOTP two-factor authentication, three-tier RBAC, 
 PDF document handling, and a complete REST API — built for Metropolitan College IT Department.
       <br><br>
-      <strong>Highlights:</strong>Google Authenticator TOTP · PDO prepared statements · IP audit logging · PHPMailer
+      <strong>Highlights:</strong> Google Authenticator TOTP · PDO prepared statements · IP audit logging · PHPMailer
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/eamalindu/whatsapp-claude-bot">🤖 WhatsApp AI Chatbot</a></h3>
@@ -157,7 +159,7 @@ PDF document handling, and a complete REST API — built for Metropolitan Colleg
       <br><br>
 Production WhatsApp chatbot for Metropolitan College using Google Gemini 2.5 Flash. Hybrid 
 architecture routes known queries to instant predefined responses and unknown queries to the LLM.      <br><br>
-      <strong>Highlights:</strong>WhatsApp Business API · Gemini AI · Stale message filtering · Webhook verification
+      <strong>Highlights:</strong> WhatsApp Business API · Gemini AI · Stale message filtering · Webhook verification
     </td>
   </tr>
 </table>
