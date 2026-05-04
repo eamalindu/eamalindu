@@ -1,62 +1,169 @@
-## About me
-
-Backend engineer and IT professional based in Sri Lanka. I'm currently Assistant Manager IT at Metropolitan College, where I also built and maintain the institution's AI-powered WhatsApp chatbot and internal management systems.
-
-My work sits at the intersection of enterprise systems, security engineering, and applied AI. I don't just integrate AI as a feature — I design hybrid pipelines that combine predefined logic with LLM responses to make them production-reliable.
-
-## What I build
-
-**Enterprise management systems**
-Multi-module platforms covering student registration, attendance, payroll, inquiry management, and HR workflows — built with Spring Boot and PHP, deployed in production environments.
-
-**AI-integrated backends**
-WhatsApp Business API + Google Gemini chatbot for Metropolitan College. Spring Boot + Gemini web assistant for ESOFT. Both use a hybrid rule/LLM architecture for predictable, cost-efficient responses.
-
-**Security-first applications**
-TOTP-based two-factor authentication, RBAC with three permission tiers, PDO prepared statements, IP-based audit logging, and HTTP security headers — across multiple production systems.
-
-**Multi-system integration**
-Designed and built IMS ↔ RMS data synchronisation: two independent systems that stay consistent across student registration, batch, and course data.
-
-## Stack
-
-| Layer | Technologies |
-|---|---|
-| Backend | Java 17, Spring Boot 3, PHP 8 |
-| Frontend | JavaScript, Bootstrap 5, jQuery, Thymeleaf |
-| AI | Google Gemini API, WhatsApp Business API |
-| Database | MySQL 8, Spring Data JPA, PDO |
-| Security | Spring Security, TOTP, RBAC, PHPMailer |
-| Deployment | Apache, cPanel, Cloudflare |
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+
+# Hi, I'm Amalindu 👋
+
+**Backend Engineer · IT Professional · Applied AI Builder**
+
+*Sri Lanka 🇱🇰 · Assistant Manager IT @ Metropolitan College*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eamalindu)
+[![GitHub followers](https://img.shields.io/github/followers/eamalindu?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/eamalindu)
+[![Profile Views](https://komarev.com/ghpvc/?username=eamalindu&style=for-the-badge&color=0e75b6)](https://github.com/eamalindu)
+
 </div>
 
-<h3 align="left">Stats:</h3>
+---
+
+## 🧑‍💻 About Me
+
+Backend engineer and IT professional based in Sri Lanka. I currently serve as **Assistant Manager IT at Metropolitan College**, where I design, build, and maintain the institution's AI-powered WhatsApp chatbot and its suite of internal management systems.
+
+My work sits at the intersection of **enterprise systems**, **security engineering**, and **applied AI**. I don't just plug in AI as a feature — I architect hybrid pipelines that blend predefined business logic with LLM responses to make them production-reliable and cost-efficient.
+
+```text
+🏢  Enterprise Systems    ████████████████████   Production-grade management platforms
+🤖  Applied AI            ████████████████░░░░   Hybrid rule/LLM architectures
+🔐  Security Engineering  ███████████████░░░░░   TOTP · RBAC · Audit logging
+🔗  System Integration    ████████████░░░░░░░░   Multi-system data synchronisation
+```
+
+---
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🏛️ Enterprise Management Systems</h3>
+      Multi-module platforms covering student registration, attendance, payroll, inquiry management, and HR workflows — built with <strong>Spring Boot</strong> and <strong>PHP</strong>, deployed in production environments.
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤖 AI-Integrated Backends</h3>
+      WhatsApp Business API + Google Gemini chatbot for Metropolitan College. Spring Boot + Gemini web assistant for ESOFT. Both use a <strong>hybrid rule/LLM architecture</strong> for predictable, cost-efficient responses.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔐 Security-First Applications</h3>
+      TOTP-based two-factor authentication, RBAC with three permission tiers, PDO prepared statements, IP-based audit logging, and HTTP security headers — across multiple production systems.
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔗 Multi-System Integration</h3>
+      Designed and built <strong>IMS ↔ RMS data synchronisation</strong>: two independent systems that stay consistent across student registration, batch, and course data.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Skills & Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eamalindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eamalindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+| Layer | Technologies |
+|:---:|:---|
+| **Backend** | Java 17, Spring Boot 3, PHP 8 |
+| **Frontend** | JavaScript, Bootstrap 5, jQuery, Thymeleaf |
+| **AI / Integrations** | Google Gemini API, WhatsApp Business API |
+| **Database** | MySQL 8, Spring Data JPA, PDO |
+| **Security** | Spring Security, TOTP, RBAC, PHPMailer |
+| **Deployment** | Apache, cPanel, Cloudflare |
+
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/eamalindu/eamalindu/output/snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Boot" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" title="PHP" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" title="Bootstrap 5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" title="IntelliJ IDEA" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
+</div>
+
+---
+
+## 🏆 Top Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/eamalindu/ims">📋 Inquiry Management System (IMS)</a></h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+      <br><br>
+      Comprehensive inquiry handling and registration platform for a higher education institute. Automates follow-ups, manages student data, generates performance reports, and integrates with the Registration Management System (RMS) for live data sync.
+      <br><br>
+      <strong>Highlights:</strong> IMS ↔ RMS sync · Automated follow-up workflows · Performance reporting · Spring Security RBAC
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/eamalindu/EMC-Attendance-System">🕐 EMC Attendance System</a></h3>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+      <br><br>
+      Production attendance management system built for EMC – Nittambuwa. Handles staff and student attendance tracking with secure authentication and reporting features.
+      <br><br>
+      <strong>Highlights:</strong> PDO prepared statements · RBAC auth · IP-based audit logging · PHPMailer notifications
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/eamalindu/Custom-Modal-Alerts">🔔 Custom Modal Alerts</a></h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/eamalindu/Custom-Modal-Alerts?style=flat&color=yellow" />
+      <br><br>
+      A drop-in JavaScript library to replace default browser alerts with animated, modern Bootstrap 5 modals. Attach to any webpage element with zero dependencies beyond Bootstrap.
+      <br><br>
+      <strong>Highlights:</strong> Animated GIF support · Zero-config setup · Drop-in replacement for native alerts · Reusable library
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/eamalindu/Weather-App">🌦️ Weather App</a></h3>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <br><br>
+      Displays real-time weather information, an embedded Google Maps view, and Wikipedia data for any city, town, or country — all from a single search query.
+      <br><br>
+      <strong>Highlights:</strong> Multi-API integration (Weather · Maps · Wikipedia) · Responsive layout · Dynamic search
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eamalindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eamalindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="160" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eamalindu&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eamalindu/eamalindu/output/snake.svg" alt="Snake animation" />
 </div>
