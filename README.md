@@ -3,13 +3,37 @@
   <img src="https://github-profile-trophy.vercel.app?username=eamalindu&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="100" alt="trophy graph"  />
 </div>
 
-<h3 align="left">About Me:</h3>
+## About me
 
-<p align="left">Welcome to my GitHub! I'm passionate about coding and continuously learning new technologies to enhance my skills. Here, you'll find a variety of projects showcasing my expertise in Javascript, PHP, etc. I'm always open to collaboration and eager to contribute to exciting and innovative projects. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas. Let's build something amazing together!.</p>
+Backend engineer and IT professional based in Sri Lanka. I'm currently Assistant Manager IT at Metropolitan College, where I also built and maintain the institution's AI-powered WhatsApp chatbot and internal management systems.
 
-<h3 align="left">Languages and Tools:</h3>
+My work sits at the intersection of enterprise systems, security engineering, and applied AI. I don't just integrate AI as a feature — I design hybrid pipelines that combine predefined logic with LLM responses to make them production-reliable.
 
-<p align="left">I work with a diverse set of languages and tools to bring my projects to life. My core expertise includes Java, PHP, JavaScript, C#, HTML, and CSS. I am proficient in frameworks and libraries like React and Spring Boot. For databases, I use MySQL, and I rely on IntelliJ IDEA as my primary development environment. Whether building dynamic web applications, backend services, or full-stack solutions, I leverage this robust toolkit to deliver high-quality, scalable projects. I'm always exploring new technologies to expand my skill set and stay at the cutting edge of development</p>
+## What I build
+
+**Enterprise management systems**
+Multi-module platforms covering student registration, attendance, payroll, inquiry management, and HR workflows — built with Spring Boot and PHP, deployed in production environments.
+
+**AI-integrated backends**
+WhatsApp Business API + Google Gemini chatbot for Metropolitan College. Spring Boot + Gemini web assistant for ESOFT. Both use a hybrid rule/LLM architecture for predictable, cost-efficient responses.
+
+**Security-first applications**
+TOTP-based two-factor authentication, RBAC with three permission tiers, PDO prepared statements, IP-based audit logging, and HTTP security headers — across multiple production systems.
+
+**Multi-system integration**
+Designed and built IMS ↔ RMS data synchronisation: two independent systems that stay consistent across student registration, batch, and course data.
+
+## Stack
+
+| Layer | Technologies |
+|---|---|
+| Backend | Java 17, Spring Boot 3, PHP 8 |
+| Frontend | JavaScript, Bootstrap 5, jQuery, Thymeleaf |
+| AI | Google Gemini API, WhatsApp Business API |
+| Database | MySQL 8, Spring Data JPA, PDO |
+| Security | Spring Security, TOTP, RBAC, PHPMailer |
+| Deployment | Apache, cPanel, Cloudflare |
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
