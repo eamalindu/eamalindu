@@ -139,8 +139,6 @@ lifecycle with role-based access and automated email notifications
       <br><br>
       <strong>Highlights:</strong> PDO prepared statements · RBAC auth · IP-based audit logging · PHPMailer notifications
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/eamalindu/Lecturer_Search_Tool/">🔐 Lecturer Search Tool</a></h3>
      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -152,7 +150,9 @@ PDF document handling, and a complete REST API — built for Metropolitan Colleg
       <br><br>
       <strong>Highlights:</strong> Google Authenticator TOTP · PDO prepared statements · IP audit logging · PHPMailer
     </td>
-    <td valign="top" width="50%">
+  </tr>
+  <tr>
+    <td valign="top" width="100%">
       <h3><a href="https://github.com/eamalindu/whatsapp-claude-bot">🤖 WhatsApp AI Chatbot</a></h3>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
