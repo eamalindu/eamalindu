@@ -92,8 +92,6 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" title="IntelliJ IDEA" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
@@ -121,15 +119,13 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
       <br><br>
-      Full-stack Spring Boot platform for student registration, batch management, payments, attendance, 
-and academic performance at STEAM Higher Education Institute. Handles the complete enrollment 
-lifecycle with role-based access and automated email notifications
+      Full-stack Spring Boot platform for student registration, batch management, payments, attendance, and academic performance at STEAM Higher Education Institute. Handles the complete enrollment lifecycle with role-based access and automated email notifications.
       <br><br>
       <strong>Highlights:</strong> Spring Security RBAC · JPA/Hibernate · Installment payment tracking · Excel reports
     </td>
   </tr>
   <tr>
-    <td valign="top" width="10%">
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/eamalindu/EMC-Attendance-System">🕐 EMC Attendance System</a></h3>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -141,24 +137,24 @@ lifecycle with role-based access and automated email notifications
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/eamalindu/Lecturer_Search_Tool/">🔐 Lecturer Search Tool</a></h3>
-     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
       <br><br>
-     Enterprise-grade staff management system with TOTP two-factor authentication, three-tier RBAC, 
-PDF document handling, and a complete REST API — built for Metropolitan College IT Department.
+      Enterprise-grade staff management system with TOTP two-factor authentication, three-tier RBAC, PDF document handling, and a complete REST API — built for Metropolitan College IT Department.
       <br><br>
       <strong>Highlights:</strong> Google Authenticator TOTP · PDO prepared statements · IP audit logging · PHPMailer
     </td>
   </tr>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" colspan="2">
       <h3><a href="https://github.com/eamalindu/whatsapp-claude-bot">🤖 WhatsApp AI Chatbot</a></h3>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
       <br><br>
-Production WhatsApp chatbot for Metropolitan College using Google Gemini 2.5 Flash. Hybrid 
-architecture routes known queries to instant predefined responses and unknown queries to the LLM.      <br><br>
+      Production WhatsApp chatbot for Metropolitan College using Google Gemini 2.5 Flash. Hybrid architecture routes known queries to instant predefined responses and unknown queries to the LLM.
+      <br><br>
       <strong>Highlights:</strong> WhatsApp Business API · Gemini AI · Stale message filtering · Webhook verification
     </td>
   </tr>
