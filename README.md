@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amalindu 👋
+# Hi, I'm Malindu 👋
 
 **Backend Engineer · IT Professional · Applied AI Builder**
 
@@ -116,6 +116,18 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
       <strong>Highlights:</strong> IMS ↔ RMS sync · Automated follow-up workflows · Performance reporting · Spring Security RBAC
     </td>
     <td valign="top" width="50%">
+      <h3><a href="https://github.com/eamalindu/rms">📋 Inquiry Management System (IMS)</a></h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+      <br><br>
+      Full-stack Spring Boot platform for student registration, batch management, payments, attendance, 
+and academic performance at STEAM Higher Education Institute. Handles the complete enrollment 
+lifecycle with role-based access and automated email notifications
+      <br><br>
+      <strong>Highlights:</strong>Spring Security RBAC · JPA/Hibernate · Installment payment tracking · Excel reports
+    </td>
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/eamalindu/EMC-Attendance-System">🕐 EMC Attendance System</a></h3>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -128,23 +140,24 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/eamalindu/Custom-Modal-Alerts">🔔 Custom Modal Alerts</a></h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <h3><a href="https://github.com/eamalindu/Lecturer_Search_Tool/">🔐 Lecturer Search Tool</a></h3>
+     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/eamalindu/Custom-Modal-Alerts?style=flat&color=yellow" />
       <br><br>
-      A drop-in JavaScript library to replace default browser alerts with animated, modern Bootstrap 5 modals. Attach to any webpage element with zero dependencies beyond Bootstrap.
+     Enterprise-grade staff management system with TOTP two-factor authentication, three-tier RBAC, 
+PDF document handling, and a complete REST API — built for Metropolitan College IT Department.
       <br><br>
-      <strong>Highlights:</strong> Animated GIF support · Zero-config setup · Drop-in replacement for native alerts · Reusable library
+      <strong>Highlights:</strong>Google Authenticator TOTP · PDO prepared statements · IP audit logging · PHPMailer
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/eamalindu/Weather-App">🌦️ Weather App</a></h3>
+      <h3><a href="https://github.com/eamalindu/whatsapp-claude-bot">🤖 WhatsApp AI Chatbot</a></h3>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <br><br>
-      Displays real-time weather information, an embedded Google Maps view, and Wikipedia data for any city, town, or country — all from a single search query.
-      <br><br>
-      <strong>Highlights:</strong> Multi-API integration (Weather · Maps · Wikipedia) · Responsive layout · Dynamic search
+Production WhatsApp chatbot for Metropolitan College using Google Gemini 2.5 Flash. Hybrid 
+architecture routes known queries to instant predefined responses and unknown queries to the LLM.      <br><br>
+      <strong>Highlights:</strong>WhatsApp Business API · Gemini AI · Stale message filtering · Webhook verification
     </td>
   </tr>
 </table>
