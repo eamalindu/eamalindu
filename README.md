@@ -165,8 +165,8 @@ My work sits at the intersection of **enterprise systems**, **security engineeri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eamalindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eamalindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=eamalindu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=eamalindu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" alt="Top languages" />
 </div>
 
 <div align="center">
